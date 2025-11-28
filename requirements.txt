@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-ollama
+langchain-community
+langchain-text-splitters
+numpy
+scikit-learn
+nltk
+neo4j
+ipykernel
