@@ -8,3 +8,4 @@ scikit-learn
 nltk
 neo4j
 ipykernel
+langchain-neo4j
